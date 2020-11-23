@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web Design
-- 🌱 I’m currently learning Web Design
+- 🔭 I’m currently working on Web Design && JQuery
+- 🌱 I’m currently learning JQuery
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about JQuery && CSS
