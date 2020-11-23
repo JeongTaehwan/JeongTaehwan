@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about JQuery && CSS
-- 📫 How to reach me: <https://www.facebook.com/profile.php?id=100012453123499>
+- 📫 How to reach me: <https://www.facebook.com/profile.php?id=100012453123499> , <https://www.instagram.com/x0_ghks1/?hl=ko>
 - 😄 Pronouns: Tapuwan
 - ⚡ Fun fact: My height is 300m
 
