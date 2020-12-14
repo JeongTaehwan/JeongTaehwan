@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 
+🎨Web Publisher && Junior Desinger
 - 🔭 I’m currently working on Web Design && JQuery
 - 🌱 I’m currently learning JQuery
 - 👯 I’m looking to collaborate on Github
