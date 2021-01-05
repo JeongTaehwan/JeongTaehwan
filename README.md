@@ -1,4 +1,4 @@
-### 🎨Web Publisher && Junior Desinger
+### 🎨Web Publisher && Junior Desinger🦄
 
 <!--
 **JeongTaehwan/JeongTaehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
