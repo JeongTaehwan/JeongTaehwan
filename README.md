@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Web Design && JQuery
-- 🌱 I’m currently learning JQuery
+- 🔭 I’m currently working on WEB
+- 🌱 I’m currently learning WEB
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with everything
-- 💬 Ask me about JQuery && CSS
+- 💬 Ask me about WEB
 - 📫 How to reach me: <https://www.instagram.com/x0_ghks1/?hl=ko> , <https://www.rocketpunch.com/@98a8d391>
 - 😄 Pronouns: Tapuwan
 - ⚡ Fun fact: I have 100 billions of "Cola"😁
