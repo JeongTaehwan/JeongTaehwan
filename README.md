@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+- 😏 I'm from Korea 🇰🇷
 - 🔭 I’m currently working on WEB
 - 🌱 I’m currently learning WEB
 - 👯 I’m looking to collaborate on Github
