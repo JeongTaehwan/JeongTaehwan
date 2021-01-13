@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 😏 I'm from Korea 🇰🇷
 - 🌱 I’m currently learning WEB-FrontEnd
 - 🏫 Affiliation : Gwangju-SoftwareMiester-Highschool
+- 🖨️ I worked in : 웹쟁이 임베들
 - 📫 How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/x0_ghks1)](https://www.instagram.com/x0_ghks1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kt26625417@gmail.com)](mailto:kt26625417@gmail.com)
 
