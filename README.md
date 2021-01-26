@@ -1,4 +1,4 @@
-### 🙉Junior Front-End Developer && Junior Web Designer🙉
+### 🙉🙉Junior Front-End Developer && Junior Web Designer🙉🙉
 
 <!--
 **JeongTaehwan/JeongTaehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
