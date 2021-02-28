@@ -1,4 +1,4 @@
-### 🙉Junior Front-End Developer && Junior UIUX Designer🙉
+### 🙉Junior Client Developer && Junior UIUX Designer🙉
 
 <!--
 **JeongTaehwan/Jeon.gTaehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 😏 I'm from Korea 🇰🇷
-- 🌱 I’m currently learning WEB-FrontEnd && Web UIUX && Web Design && PhotoShop && ClientDeveolper
+- 🌱 I’m currently learning WEB-FrontEnd && Web UIUX && ClientDeveolper
 - 🏫 Affiliation : Gwangju-SoftwareMiester-Highschool
 - 🖨️ I worked in : 웹쟁이 임베들(Webster-Embeddeds) as a WebPublisher
 - 📫 Introduce my Social media: [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/x0_ghks1)](https://www.instagram.com/x0_ghks1)
