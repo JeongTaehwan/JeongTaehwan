@@ -1,4 +1,4 @@
-### 💻Junior Client Developer💻 && 😎Junior UXUI Designer😎
+### 💻Junior Client Developer💻 && 😎Junior UXUI Designer😎 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongTaehwan%2Fhit-counter&count_bg=%230F019C&title_bg=%23FFFFFF&icon=css3.svg&icon_color=%231C00C2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 <!--
 **JeongTaehwan/Jeon.gTaehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kt26625417@gmail.com)](mailto:kt26625417@gmail.com)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-0000ff?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100012453123499)](https://www.facebook.com/profile.php?id=100012453123499)
 - 🥳 I want to be a good UXUI Designer and Client Developer
 - 🤠 No pain, No gain
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongTaehwan%2Fhit-counter&count_bg=%230F019C&title_bg=%23FFFFFF&icon=css3.svg&icon_color=%231C00C2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
