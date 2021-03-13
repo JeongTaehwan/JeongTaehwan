@@ -17,6 +17,7 @@
 ### Stack🔨
 
 - C & Java
+- HTML, CSS
 - JavaScript
 - PhotoShop
 - Figma
