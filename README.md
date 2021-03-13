@@ -17,7 +17,7 @@
 ### Stack🔨
 
 - C & Java
-- HTML & CSS & JavaScript
+- JavaScript
 
 ---
 
