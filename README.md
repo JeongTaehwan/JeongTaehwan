@@ -18,6 +18,8 @@
 
 - C & Java
 - JavaScript
+- PhotoShop
+- Figma
 
 ---
 
