@@ -3,7 +3,7 @@ Hi! I'm JeongTaehwan develop of FrontEnd!
 
 ---
 
-### Currently Learn about
+### Currently Learn about🤸
 
 - React JavaScript
 - UXUI
@@ -11,14 +11,14 @@ Hi! I'm JeongTaehwan develop of FrontEnd!
 
 ---
 
-### Stack
+### Stack🔨
 
 - C & Java
 - HTML & CSS & JavaScript
 
 ---
 
-### I want to Learn
+### I want to Learn📚
 
 - Typescript
 - SASS
@@ -27,7 +27,7 @@ Hi! I'm JeongTaehwan develop of FrontEnd!
 
 ---
 
-### Contact me
+### Contact me📱
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/x0_ghks1)](https://www.instagram.com/x0_ghks1)  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kt26625417@gmail.com)](mailto:kt26625417@gmail.com)  
