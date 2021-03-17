@@ -11,6 +11,7 @@
 - React JavaScript
 - UXUI
 - FrontEnd Client
+- SASS
 
 ---
 
@@ -27,9 +28,7 @@
 ### I want to Learn📚
 
 - Typescript
-- SASS
 - Next.js
-- JQuery
 
 ---
 
