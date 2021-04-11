@@ -2,7 +2,7 @@
 
 ### Introduce🕴️
 
-- Hi! I'm JeongTaehwan develop of FrontEnd.💻
+- Hi! I'm JeongTaehwan developer of FrontEnd.💻
 - I live in Korea.🇰🇷
 - I'm a student of Gwangju SoftwareMeister HighSchool.🏫
 
