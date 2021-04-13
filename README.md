@@ -10,5 +10,5 @@
 
 ---
 
-![JeongTaehwan's github stats](https://github-readme-stats.vercel.app/api?username=Tapuwan&show_icons=true)
+![JeongTaehwan's github stats](https://github-readme-stats.vercel.app/api?username=JeongTaehwan&show_icons=true)
 
