@@ -10,7 +10,7 @@
 
 ### Tools💻
 
-<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=&logoColor=white"/></a> <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Xd-FF61F6?style=flat-square&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=&logoColor=white"/></a> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=&logoColor=white"/></a> <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Xd-FF61F6?style=flat-square&logo=&logoColor=white"/></a> 
 
 ### Contact 🇰🇷
 
