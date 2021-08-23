@@ -8,11 +8,8 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 
-### Portfolio💁🏼
-<a href="https://lumbar-dessert-399.notion.site/FE-Developer-85690d59cde44d278c9419ca2ee3d416" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</a>
-
 ### Contact📞 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/x0_ghks1)](https://www.instagram.com/x0_ghks1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kt26625417@gmail.com)](mailto:kt26625417@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-0000ff?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100012453123499)](https://www.facebook.com/profile.php?id=100012453123499)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/x0_ghks1)](https://www.instagram.com/x0_ghks1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kt26625417@gmail.com)](mailto:kt26625417@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-0000ff?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100012453123499)](https://www.facebook.com/profile.php?id=100012453123499)<a href="https://lumbar-dessert-399.notion.site/FE-Developer-85690d59cde44d278c9419ca2ee3d416" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
