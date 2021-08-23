@@ -8,10 +8,10 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 
-<!-- ### Portfolio💁🏼
-<a href="https://www.notion.so/85690d59cde44d278c9419ca2ee3d416" target="_blank">
+### Portfolio💁🏼
+<a href="https://lumbar-dessert-399.notion.site/FE-Developer-85690d59cde44d278c9419ca2ee3d416" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</a> -->
+</a>
 
 ### Contact📞 
 
